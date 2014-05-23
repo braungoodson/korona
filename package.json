@@ -18,5 +18,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/braungoodson/korona/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.12.16"
+  },
+  "dependencies": {
+    "bower": "~1.2.8"
   }
 }

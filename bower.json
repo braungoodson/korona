@@ -1,0 +1,27 @@
+{
+  "name": "korona",
+  "version": "0.1.0",
+  "description": "karma, jasmine, bower, angular",
+  "keywords": [
+    "karma",
+    "jasmine",
+    "bower",
+    "angular"
+  ],
+  "authors": [
+    "braun goodson <braungoodson>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/braungoodson/korona",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
