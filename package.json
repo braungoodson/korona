@@ -4,8 +4,8 @@
   "description": "example of karma and angular",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"ERROR: No test.\"",
-    "postinstall": "./node_modules/bower/bin/bower install && ./node_modules/karma/bin/karma"
+    "test": "./node_modules/karma/bin/karma start",
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "repository": {
     "type": "git",
