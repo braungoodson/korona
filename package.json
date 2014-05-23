@@ -1,6 +1,6 @@
 {
   "name": "korona",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "example of karma and angular",
   "main": "server.js",
   "scripts": {
