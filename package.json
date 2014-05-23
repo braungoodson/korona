@@ -1,7 +1,7 @@
 {
   "name": "korona",
-  "version": "0.1.1",
-  "description": "example of karma and angular",
+  "version": "0.1.2",
+  "description": "karma, jasmine, bower, angular",
   "main": "server.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start",
