@@ -4,7 +4,8 @@
   "description": "example of karma and angular",
   "main": "server.js",
   "scripts": {
-    "test": "grunt"
+    "test": "echo \"ERROR: No test.\"",
+    "postinstall": "./node_modules/bower/bin/bower install && ./node_modules/karma/bin/karma"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,8 @@
     "url": "https://github.com/braungoodson/korona/issues"
   },
   "devDependencies": {
-    "karma": "~0.12.16"
+    "karma": "~0.12.16",
+    "jasmine-core": "~2.0.0"
   },
   "dependencies": {
     "bower": "~1.2.8"
