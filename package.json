@@ -1,0 +1,22 @@
+{
+  "name": "korona",
+  "version": "0.1.0",
+  "description": "example of karma and angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/braungoodson/korona"
+  },
+  "keywords": [
+    "karma",
+    "angular"
+  ],
+  "author": "braun goodson <braungoodson>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braungoodson/korona/issues"
+  }
+}
